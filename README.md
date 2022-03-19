@@ -1,4 +1,4 @@
-<div align="center" style="height: 100px">
+<div align="center" style="height: 80px">
 <img src="https://uploads-ssl.webflow.com/622ecede02e90a7526aafe35/622ed25bed04e77d4988729b_corecode%20logo%20negative.svg">
 </div>
 
