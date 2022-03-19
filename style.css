@@ -1,0 +1,41 @@
+body {
+  font-family: sans-serif;
+  color: white;
+  background-color: #0d1e38;
+}
+
+header {
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  height: 60px;
+}
+
+main {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 25px;
+  padding: 20px 0 25px 0;
+}
+
+.day {
+  width: 80%;
+  height: fit-content;
+  padding: 15px;
+  border-radius: 25px;
+  background-color: #1c4cdb;
+}
+
+a {
+  color: white;
+}
+
+li {
+  margin: 5px 0;
+}

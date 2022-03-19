@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      body {
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      img {
+        border-radius: 20px;
+      }
+      a {
+        position: relative;
+      }
+      a:hover::after {
+        content: "Click on Image";
+        right: 20px;
+        bottom: 20px;
+        padding: 10px;
+        font-size: 25px;
+        font-family: sans-serif;
+        font-weight: bold;
+        position: absolute;
+        border-radius: 10px;
+        color: white;
+        background-color: violet;
+      }
+    </style>
+    <title>Image</title>
+  </head>
+  <body>
+    <a href="https://zoomquilt.org/" target="_blank">
+      <img src="https://source.unsplash.com/random/800x400/?universe" alt="" />
+    </a>
+  </body>
+</html>
