@@ -6,4 +6,4 @@
 HTML & CSS Practices 🚀
 </h1>
 
-Here you can watch some challenges from the Bootcamp **Software Developer from Scratch** at [Core Code](https://www.core-code.io/)
+**[Here](https://kevin-curruchich.github.io/HTML-CSS/)** you can watch some challenges from the Bootcamp **Software Developer from Scratch** at [Core Code](https://www.core-code.io/)
